@@ -36,5 +36,19 @@ main {
 
 header h1 {
   text-align: center;
+  color:red;
 
+}
+.boy{
+  color:blue;
+  font-family: cursive;
+}
+.btn{
+  background-color:rgb(26, 192, 26);
+  color:white;
+  padding:5px;
+  border-radius:10px;
+}
+.search-form{
+  margin-left:80px;
 }
