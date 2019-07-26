@@ -3,7 +3,7 @@ import React from 'react'
 export default function WelcomePage() {
   return <section className="welcome-page">
     <header>
-      <h1>Welcome to the ultimate fan site!</h1>
+      <h1 className="boy">Welcome to the ultimate fan site!</h1>
       <img class="main-img ui centered medium circular image" src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" alt="rick" />
     </header>
   </section>
